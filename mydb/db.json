@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Hunday Salaris",
+      "payment": 500000,
+      "mileage": 16000,
+      "year": 2010,
+      "condition": "Новая",
+      "img": "https://avto-russia.ru/autos/hyundai/photo/hyundai_solaris_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Skoda Yeti ",
+      "payment": 570000,
+      "mileage": 110000,
+      "year": 2012,
+      "condition": "Не битая",
+      "img": "https://quto.ru/thumb/1035x0/filters:quality(75):no_upscale()/service-imgs/4f/c4/bf/48/4fc4bf480b29c.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Skoda Octavia",
+      "payment": 535000,
+      "mileage": 85000,
+      "year": 2012,
+      "condition": "Не битая",
+      "img": "https://cdn.motor1.com/images/mgl/wzRLE/s3/2020-skoda-octavia-leaked.jpg"
+    }
+  ]
+}
